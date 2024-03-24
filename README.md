@@ -16,3 +16,10 @@ To explore this project, follow these simple steps:
 
 ## Screenshot
 <img width="233" src="https://github.com/alessonJuley/GoogleBooksApp/assets/92022487/e56c121f-e7a0-4948-a4f3-fa8dc2467232">
+
+## Developers
+<h3>Alesson Abao</h3>
+Graduate Diploma in Software and Web Development (Level 7)<br>
+Manukau Institute of Technology - Manukau Campus <br>
+Linkedin: https://www.linkedin.com/in/alessonabao <br>
+Github: https://github.com/alessonJuley <br>

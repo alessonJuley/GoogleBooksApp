@@ -15,7 +15,8 @@ To explore this project, follow these simple steps:
 2. Build and run app using Xcode.
 
 ## Screenshot
-<img width="233" src="https://github.com/alessonJuley/GoogleBooksApp/assets/92022487/e56c121f-e7a0-4948-a4f3-fa8dc2467232">
+<img width="233" src="https://github.com/alessonJuley/GoogleBooksApp/assets/92022487/6398f3ac-a472-4e36-b07d-c4768202b559">
+
 
 ## Author
 <h3>Alesson Abao</h3>
